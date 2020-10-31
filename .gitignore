@@ -67,3 +67,4 @@ venv.bak/
 
 # DogApp
 dogapp/dogapp/localsettings.py
+dogapp/db.sqlite3
